@@ -1,0 +1,13 @@
+/.cabal-sandbox/
+/dist/
+/cabal.sandbox.config
+/src/*.png
+/src/*.ps
+/src/*.txt
+/src/deprecatedcode
+/src/*.hi
+/src/*.hp
+/src/*.aux
+/src/*.o
+/src/Main
+/*.org
